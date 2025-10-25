@@ -127,5 +127,5 @@ Cada classe de lista contém um método `main()` interno para **testes automáti
 **Nome:** _[Nicolas Alexandrino Da Silva Amorim]_  
 **Curso:** Engenharia de Software  
 **Disciplina:** Estrutura de Dados  
-**Professor:** _[Anderson Costa]_  
+**Professor:** _[Anderson Soares Costa]_  
 **Data de entrega:** 25/10/2025  
