@@ -97,7 +97,7 @@ Cada classe de lista contém um método `main()` interno para **testes automáti
 ## 📺 Demonstração em Vídeo
 
 🎥 **Link do vídeo explicativo (Google Drive):**  
-👉 [Clique aqui para assistir]((https://drive.google.com/file/d/1OJwQ80tgqdzmXrnStH4QwM0BbKuzz7Jf/view?usp=sharing))
+👉 [Clique aqui para assistir](https://drive.google.com/file/d/1OJwQ80tgqdzmXrnStH4QwM0BbKuzz7Jf/view?usp=sharing)
 
 > No vídeo demonstro a execução das três listas no Eclipse, explicando:
 > - Como ocorre a inserção e remoção dos nós;
